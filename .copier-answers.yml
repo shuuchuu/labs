@@ -1,0 +1,12 @@
+# Changes here will be overwritten by Copier
+_commit: 0.1.3
+_src_path: /home/mog/repos/shuuchuu/template
+project_authors:
+- '  {name = "m09", email = "142691+m09@users.noreply.github.com"},'
+project_description: Colab lab notebooks referenced from shuuchuu/slides training
+    decks.
+project_homepage: https://github.com/shuuchuu/labs
+project_id: labs
+project_license: Apache-2.0
+project_name: labs
+tools: []
